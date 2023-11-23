@@ -14,7 +14,6 @@ data = pd.read_csv(csv_file_path)
 # Print the column names
 print(data.columns)
 
-# Replace with the actual column names
 date_column = "Date"
 average_price_column = "AveragePrice"
 
